@@ -1,6 +1,14 @@
 [
     {
-        "merged": "F:\\ndkFile\\FBReaderJ\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\afc_file_chooser_activity.xml",
-        "source": "F:\\ndkFile\\FBReaderJ\\code\\build\\intermediates\\bundles\\debug\\res\\menu\\afc_file_chooser_activity.xml"
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/F:\\ndkFile\\FBReaderJ\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\afc_file_chooser_activity.xml",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/F:\\ndkFile\\FBReaderJ\\code\\build\\intermediates\\bundles\\debug\\res\\menu\\afc_file_chooser_activity.xml"
+    },
+    {
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/code/build/intermediates/res/merged/androidTest/debug/menu/afc_file_chooser_activity.xml",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/code/build/intermediates/bundles/debug/res/menu/afc_file_chooser_activity.xml"
+    },
+    {
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJU/code/build/intermediates/res/merged/androidTest/debug/menu/afc_file_chooser_activity.xml",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJU/code/build/intermediates/bundles/debug/res/menu/afc_file_chooser_activity.xml"
     }
 ]

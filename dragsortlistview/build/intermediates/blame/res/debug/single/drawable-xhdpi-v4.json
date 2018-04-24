@@ -1,6 +1,14 @@
 [
     {
-        "merged": "F:\\ndkFile\\FBReaderJ\\dragsortlistview\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
-        "source": "F:\\ndkFile\\FBReaderJ\\dragsortlistview\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/dragsortlistview/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/dragsortlistview/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJU/dragsortlistview/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJU/dragsortlistview/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/F:\\ndkFile\\FBReaderJ\\dragsortlistview\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/F:\\ndkFile\\FBReaderJ\\dragsortlistview\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     }
 ]

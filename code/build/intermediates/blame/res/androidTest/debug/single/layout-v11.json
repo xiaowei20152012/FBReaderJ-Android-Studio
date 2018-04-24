@@ -1,10 +1,26 @@
 [
     {
-        "merged": "F:\\ndkFile\\FBReaderJ\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\afc_settings_sort_view.xml",
-        "source": "F:\\ndkFile\\FBReaderJ\\code\\build\\intermediates\\bundles\\debug\\res\\layout-v11\\afc_settings_sort_view.xml"
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/code/build/intermediates/res/merged/androidTest/debug/layout-v11/afc_file_chooser.xml",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/code/build/intermediates/bundles/debug/res/layout-v11/afc_file_chooser.xml"
     },
     {
-        "merged": "F:\\ndkFile\\FBReaderJ\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\afc_file_chooser.xml",
-        "source": "F:\\ndkFile\\FBReaderJ\\code\\build\\intermediates\\bundles\\debug\\res\\layout-v11\\afc_file_chooser.xml"
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/F:\\ndkFile\\FBReaderJ\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\afc_file_chooser.xml",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/F:\\ndkFile\\FBReaderJ\\code\\build\\intermediates\\bundles\\debug\\res\\layout-v11\\afc_file_chooser.xml"
+    },
+    {
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJU/code/build/intermediates/res/merged/androidTest/debug/layout-v11/afc_file_chooser.xml",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJU/code/build/intermediates/bundles/debug/res/layout-v11/afc_file_chooser.xml"
+    },
+    {
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/F:\\ndkFile\\FBReaderJ\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\afc_settings_sort_view.xml",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/F:\\ndkFile\\FBReaderJ\\code\\build\\intermediates\\bundles\\debug\\res\\layout-v11\\afc_settings_sort_view.xml"
+    },
+    {
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJU/code/build/intermediates/res/merged/androidTest/debug/layout-v11/afc_settings_sort_view.xml",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJU/code/build/intermediates/bundles/debug/res/layout-v11/afc_settings_sort_view.xml"
+    },
+    {
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/code/build/intermediates/res/merged/androidTest/debug/layout-v11/afc_settings_sort_view.xml",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/code/build/intermediates/bundles/debug/res/layout-v11/afc_settings_sort_view.xml"
     }
 ]

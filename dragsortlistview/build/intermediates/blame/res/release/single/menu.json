@@ -1,6 +1,14 @@
 [
     {
-        "merged": "F:\\ndkFile\\FBReaderJ\\dragsortlistview\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
-        "source": "F:\\ndkFile\\FBReaderJ\\dragsortlistview\\src\\main\\res\\menu\\main.xml"
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/dragsortlistview/build/intermediates/res/merged/release/menu/main.xml",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/dragsortlistview/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/F:\\ndkFile\\FBReaderJ\\dragsortlistview\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/F:\\ndkFile\\FBReaderJ\\dragsortlistview\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJU/dragsortlistview/build/intermediates/res/merged/release/menu/main.xml",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJU/dragsortlistview/src/main/res/menu/main.xml"
     }
 ]

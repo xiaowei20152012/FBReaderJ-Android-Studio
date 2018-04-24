@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FBReaderJ.iml" filepath="$PROJECT_DIR$/FBReaderJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FBReaderJU.iml" filepath="$PROJECT_DIR$/FBReaderJU.iml" />
       <module fileurl="file://$PROJECT_DIR$/superToasts/SuperToasts.iml" filepath="$PROJECT_DIR$/superToasts/SuperToasts.iml" />
       <module fileurl="file://$PROJECT_DIR$/ambilWarna/ambilWarna.iml" filepath="$PROJECT_DIR$/ambilWarna/ambilWarna.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />

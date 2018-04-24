@@ -1,18 +1,50 @@
 [
     {
-        "merged": "F:\\ndkFile\\FBReaderJ\\ambilWarna\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ambilwarna_arrow_down.png",
-        "source": "F:\\ndkFile\\FBReaderJ\\ambilWarna\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ambilwarna_arrow_down.png"
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJU/ambilWarna/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ambilwarna_cursor.png",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJU/ambilWarna/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ambilwarna_cursor.png"
     },
     {
-        "merged": "F:\\ndkFile\\FBReaderJ\\ambilWarna\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ambilwarna_cursor.png",
-        "source": "F:\\ndkFile\\FBReaderJ\\ambilWarna\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ambilwarna_cursor.png"
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/ambilWarna/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ambilwarna_target.png",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/ambilWarna/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ambilwarna_target.png"
     },
     {
-        "merged": "F:\\ndkFile\\FBReaderJ\\ambilWarna\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ambilwarna_target.png",
-        "source": "F:\\ndkFile\\FBReaderJ\\ambilWarna\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ambilwarna_target.png"
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/ambilWarna/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ambilwarna_arrow_right.png",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/ambilWarna/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ambilwarna_arrow_right.png"
     },
     {
-        "merged": "F:\\ndkFile\\FBReaderJ\\ambilWarna\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ambilwarna_arrow_right.png",
-        "source": "F:\\ndkFile\\FBReaderJ\\ambilWarna\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ambilwarna_arrow_right.png"
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJU/ambilWarna/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ambilwarna_arrow_down.png",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJU/ambilWarna/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ambilwarna_arrow_down.png"
+    },
+    {
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/ambilWarna/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ambilwarna_cursor.png",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/ambilWarna/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ambilwarna_cursor.png"
+    },
+    {
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/F:\\ndkFile\\FBReaderJ\\ambilWarna\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ambilwarna_cursor.png",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/F:\\ndkFile\\FBReaderJ\\ambilWarna\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ambilwarna_cursor.png"
+    },
+    {
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJU/ambilWarna/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ambilwarna_arrow_right.png",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJU/ambilWarna/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ambilwarna_arrow_right.png"
+    },
+    {
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/F:\\ndkFile\\FBReaderJ\\ambilWarna\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ambilwarna_arrow_right.png",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/F:\\ndkFile\\FBReaderJ\\ambilWarna\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ambilwarna_arrow_right.png"
+    },
+    {
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/ambilWarna/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ambilwarna_arrow_down.png",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/ambilWarna/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ambilwarna_arrow_down.png"
+    },
+    {
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/F:\\ndkFile\\FBReaderJ\\ambilWarna\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ambilwarna_arrow_down.png",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/F:\\ndkFile\\FBReaderJ\\ambilWarna\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ambilwarna_arrow_down.png"
+    },
+    {
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/F:\\ndkFile\\FBReaderJ\\ambilWarna\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ambilwarna_target.png",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJ-Android-Studio/F:\\ndkFile\\FBReaderJ\\ambilWarna\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ambilwarna_target.png"
+    },
+    {
+        "merged": "/Users/wei.li/Documents/liwei/FBReaderJU/ambilWarna/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ambilwarna_target.png",
+        "source": "/Users/wei.li/Documents/liwei/FBReaderJU/ambilWarna/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ambilwarna_target.png"
     }
 ]
