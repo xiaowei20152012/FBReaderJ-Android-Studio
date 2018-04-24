@@ -21,6 +21,9 @@ package org.geometerplus.zlibrary.ui.android.library;
 
 import android.app.Application;
 
+import com.squareup.leakcanary.LeakCanary;
+
+import org.geometerplus.zlibrary.ui.android.BuildConfig;
 import org.geometerplus.zlibrary.ui.android.image.ZLAndroidImageManager;
 
 import org.geometerplus.android.fbreader.config.ConfigShadow;
@@ -43,6 +46,14 @@ public abstract class ZLAndroidApplication extends Application {
 		myConfig = new ConfigShadow(this);
 		new ZLAndroidImageManager();
 		myLibrary = new ZLAndroidLibrary(this);
+		if (BuildConfig.DEBUG) {
+			if (LeakCanary.isInAnalyzerProcess(this)) {
+				// This process is dedicated to LeakCanary for heap analysis.
+				// You should not init your app in this process.
+				return;
+			}
+			LeakCanary.install(this);
+		}
 	}
 
 	public final ZLAndroidLibrary library() {

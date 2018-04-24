@@ -1,12 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><!--
-Compile By Tandong  2016.3.24 
- * www.whatjay.com
- * 
- * 谭东基于FBReader官方github最新版原始编译，可以放心使用。
- *这里的so库是用ADT编译导入的，如果你需要修改包名，则需要重新编译so库，替换这里的so库即可。
- * QQ 852041173
- * Android开发者QQ群 271410559
- -->
+<?xml version="1.0" encoding="utf-8"?>
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="org.geometerplus.zlibrary.ui.android"
